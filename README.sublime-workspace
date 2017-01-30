@@ -1,0 +1,680 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"re",
+				"remote"
+			],
+			[
+				"se",
+				"selectedDriverCapabilities"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"g",
+				"getId"
+			],
+			[
+				"ge",
+				"getSession"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"cl",
+				"click"
+			],
+			[
+				"lo",
+				"locator"
+			],
+			[
+				"c",
+				"css"
+			],
+			[
+				"pr",
+				"pressSave"
+			],
+			[
+				"sele",
+				"selectTitle"
+			],
+			[
+				"Home",
+				"HomeAdmin"
+			],
+			[
+				"fo",
+				"forgotPassword"
+			],
+			[
+				"for",
+				"from"
+			],
+			[
+				"user",
+				"userBasic"
+			],
+			[
+				"env",
+				"envSubdomain"
+			],
+			[
+				"bro",
+				"browserSites"
+			],
+			[
+				"test",
+				"testEnv"
+			],
+			[
+				"d",
+				"driver"
+			],
+			[
+				"H",
+				"HomeAdminPanel"
+			],
+			[
+				"si",
+				"sibebarAdmin"
+			],
+			[
+				"Side",
+				"SidebarAdmin"
+			],
+			[
+				"a",
+				"allhandles"
+			],
+			[
+				"s",
+				"switchTo"
+			],
+			[
+				"w",
+				"window"
+			],
+			[
+				"Sid",
+				"SidebarAdmin"
+			],
+			[
+				"p",
+				"platform"
+			],
+			[
+				"lik",
+				"likeResponseComment"
+			],
+			[
+				"res",
+				"responseComment"
+			],
+			[
+				"KE",
+				"Key"
+			],
+			[
+				"com",
+				"commentPost"
+			],
+			[
+				"cs",
+				"css"
+			],
+			[
+				"str",
+				"strTextComment"
+			],
+			[
+				"css",
+				"cssImage"
+			],
+			[
+				"st",
+				"strId"
+			],
+			[
+				"f",
+				"findElement"
+			],
+			[
+				"Re",
+				"RestorePage"
+			],
+			[
+				"R",
+				"return"
+			],
+			[
+				"e",
+				"email"
+			],
+			[
+				"us",
+				"userEmail"
+			],
+			[
+				"i",
+				"inputEmail"
+			],
+			[
+				"r",
+				"randomEmail"
+			],
+			[
+				"Si",
+				"Signup"
+			],
+			[
+				"I",
+				"Invitations"
+			],
+			[
+				"A",
+				"Admin"
+			],
+			[
+				"inse",
+				"insertLastName"
+			],
+			[
+				"ins",
+				"insertEmail"
+			],
+			[
+				"is",
+				"insertLastName"
+			],
+			[
+				"ed",
+				"editFirstRow"
+			],
+			[
+				"Maan",
+				"ManagePeople"
+			],
+			[
+				"edi",
+				"editName"
+			],
+			[
+				"side",
+				"sidebar"
+			],
+			[
+				"Ma",
+				"ManagePeople"
+			],
+			[
+				"log",
+				"logout"
+			],
+			[
+				"He",
+				"HeaderUser"
+			],
+			[
+				"colo",
+				"colorHeader"
+			],
+			[
+				"col",
+				"colorRojoHexa"
+			],
+			[
+				"di",
+				"driver"
+			],
+			[
+				"B",
+				"BrandingPage"
+			],
+			[
+				"sidebar",
+				"SidebarAdmin"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"fi",
+				"findElement"
+			],
+			[
+				"click",
+				"clickear"
+			],
+			[
+				"v",
+				"value"
+			],
+			[
+				"li",
+				"likePost"
+			],
+			[
+				"te",
+				"textPost"
+			],
+			[
+				"ca",
+				"caps"
+			],
+			[
+				"driver",
+				"driverName"
+			],
+			[
+				"S",
+				"Selectors"
+			],
+			[
+				"W",
+				"Windows8_chrome_40"
+			],
+			[
+				"t",
+				"then"
+			],
+			[
+				"sa",
+				"savePassword"
+			],
+			[
+				"slee",
+				"sleepPromise"
+			],
+			[
+				"joi",
+				"joinSpace"
+			],
+			[
+				"jo",
+				"joinSpace"
+			],
+			[
+				"j",
+				"joinSpace"
+			],
+			[
+				"sl",
+				"sleepPromise"
+			],
+			[
+				"firs",
+				"firstValue"
+			],
+			[
+				"ci",
+				"cityTo"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/gulpfile.babel.js",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/config/index.js",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/test/admin/design/branding.js",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/test/admin/design/background.js",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/test/admin/people/list/addUser.js",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/test/admin/design/colors.js",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/test/admin/people/list/inviteUser.js",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/test/admin/people/list/loadUsersInvalidFile.js",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/test/admin/people/list/loadUsers.js",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/test/users/profile/editProfile.js",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/test/social/postMention.js",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/drivers/index.js",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/constants/index.js",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/test/social/postSpaceHome.js",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/pagesobjects/Aside/index.js",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/test/social/postLink.js",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/test/social/postImage.js",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/test/social/postFile.js",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/test/social/commentPost.js",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/test/social/postViewMore.js",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/drivers/firefox.js",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/drivers/explorer.js",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/drivers/chrome.js",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/test/social/config.js",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/package.json",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/pagesobjects/AdminPanel/Home/index.js",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/pagesobjects/AdminPanel/Home/selectors.js",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/test/authentication/forgot/forgotPassword.js",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/test/users/profile/editProfileMainInformation.js",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/pagesobjects/Users/Profile/selectors.js",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/pagesobjects/Users/Profile/index.js",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/node_modules/selenium-webdriver/lib/webdriver.js",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/pagesobjects/BasePage.js",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/pagesobjects/Sidebar/User/selectors.js",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/pagesobjects/Sidebar/User/index.js",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/pagesobjects/Authentication/RestorePassword/index.js",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/pagesobjects/AdminPanel/People/AddUser/index.js",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/pagesobjects/AdminPanel/People/Manage/selectors.js",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/pagesobjects/AdminPanel/People/Manage/index.js",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/pagesobjects/AdminPanel/People/AddUser/selectors.js",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/pagesobjects/Header/index.js",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/pagesobjects/AdminPanel/Sidebar/index.js",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/pagesobjects/AdminPanel/People/MasiveUpload/index.js",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/test/spaces/joinSpace.js",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/pagesobjects/AdminPanel/People/MasiveUpload/selectors.js",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/pagesobjects/AdminPanel/Sidebar/selectors.js",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/npm-debug.log",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/test/social/postSpace.js",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/pagesobjects/AdminPanel/Design/Branding/index.js",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/pagesobjects/Social/index.js",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/test/social/deletePost.js",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/test/social/postText.js",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/.gitignore",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/pagesobjects/Admin/People/AddUser/index.js",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/test/people/people.js",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/pagesobjects/Social/selectors.js",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/test/users/profile/changePictureProfile.js",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/pagesobjects/Design/Branding/index.js",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/pagesobjects/Authentication/RestorePassword/selectors.js",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/pagesobjects/Authentication/ForgotPassword/index.js",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/pagesobjects/Authentication/ForgotPassword/selectors.js",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/pagesobjects/Authentication/Signup/index.js",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/pagesobjects/LoginPage.js",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/pagesobjects/Admin/People/Invitations/index.js",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/pagesobjects/Authentication/Signup/selectors.js",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/pagesobjects/Admin/People/Manage/selectors.js",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/pagesobjects/Admin/People/Manage/index.js",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/pagesobjects/Admin/People/AddUser/selectors.js",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/utils/getEmail.js",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/pagesobjects/Admin/People/Invitations/selectors.js",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/pagesobjects/Authentication/Login/index.js",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/pagesobjects/Authentication/Login/selectors.js",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/test/admin/people/list/editPerson.js",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/test/users/profile/changePassword.js",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/test/spaces/createSpace.js",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/test/authentication/login/logout.js",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/pagesobjects/Sidebar/Admin/selectors.js",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/pagesobjects/Sidebar/Admin/index.js",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/pagesobjects/Admin/People/Bulk/index.js",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/pagesobjects/Admin/People/Bulk/selectors.js",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/pagesobjects/Admin/People/MasiveUpload/index.js",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/pagesobjects/Admin/People/index.js",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/test/people/addpeople.js",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/pagesobjects/People/index.js",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/pagesobjects/Admin/People/selectors.js",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/test/admin/branding.js",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/test/admin/colors.js",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/utils/getRandomEmail.js",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/pagesobjects/Design/Branding/selectors.js",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/pagesobjects/BrandingPage.js",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/pagesobjects/Users/AccountSettings/index.js",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/pagesobjects/Spaces/AddSpace/index.js",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/test/estudiando.js",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/pagesobjects/Spaces/AddSpace/selectors.js",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/test/postLink.js",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/test/users/profile/accountSettings.js",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/pagesobjects/Header/selectors.js",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/gulpfile.js",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/pagesobjects/Users/AccountSettings/selectors.js",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/utils/helpersSauce.js",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/test/users/profile/changeDataProfile.js",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/test/spaces/leaveSpace.js",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/pagesobjects/Spaces/Space/index.js",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/pagesobjects/Spaces/Recommended/selectors.js",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/test-reports.xml",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/pagesobjects/Spaces/Space/selectors.js",
+		"/home/marina/repository/go5-automation-app/AutomationWebNode/Go5/pagesobjects/Spaces/Recommended/index.js",
+		"/home/marina/Documents/go5-automation-app/AutomationWebNode/Go5/pagesobjects/BasePage.js",
+		"/home/marina/Documents/go5-automation-app/npm-debug.log",
+		"/home/marina/GoEuro/GoEuroTest/README.md",
+		"/home/marina/GoEuro/GoEuroTest/pagesobjects/ResultsPage.js",
+		"/home/marina/GoEuro/GoEuroTest/package.json",
+		"/home/marina/GoEuro/GoEuroTest/Untitled Folder/index.js",
+		"/home/marina/GoEuro/GoEuroTest/pagesobjects/SearchPage.js",
+		"/home/marina/GoEuro/GoEuroTest/test/search/searchBerlinPrague.js",
+		"/home/marina/Documents/go5-automation-app/AutomationWebNode/Go5/pagesobjects/SearchPage.js",
+		"/home/marina/Documents/go5-automation-app/AutomationWebNode/Go5/package.json",
+		"/home/marina/Documents/go5-automation-app/AutomationWebNode/Go5/pagesobjects/LoginPage.js",
+		"/home/marina/GoEuro/GoEuroTest/test GoEuro",
+		"/home/marina/Documents/go5-automation-app/AutomationWebNode/Go5/test/spaces/leaveSpace.js",
+		"/home/marina/Documents/go5-automation-app/AutomationWebNode/Go5/drivers/index.js",
+		"/home/marina/Documents/go5-automation-app/AutomationWebNode/Go5/test/spaces/joinSpace.js",
+		"/home/marina/Documents/go5-automation-app/AutomationWebNode/Go5/test/authentication/login/login.js",
+		"/home/marina/Documents/go5-automation-app/AutomationWebNode/Go5/constants/index.js",
+		"/home/marina/Documents/go5-automation-app/AutomationWebNode/Go5/pagesobjects/Spaces/AddSpace/selectors.js",
+		"/home/marina/Documents/go5-automation-app/AutomationWebNode/Go5/pagesobjects/Spaces/AddSpace/index.js",
+		"/home/marina/Documents/go5-automation-app/AutomationWebNode/Go5/pagesobjects/Sidebar/User/index.js",
+		"/home/marina/Documents/repository/qa/AutomationWebNode/Go5/pagesobjects/Spaces/AddSpace/index.js"
+	],
+	"find":
+	{
+		"height": 69.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"usingServer",
+			".qa.",
+			"export const",
+			".title .admin li:nth-child(2) a",
+			".admin",
+			"mocha",
+			"text",
+			"postText",
+			"likeFirstComment",
+			"igopicturewhite",
+			";",
+			"String",
+			"private",
+			"=",
+			" {",
+			";",
+			"\"",
+			"=",
+			"Css",
+			"String",
+			"protected",
+			"\"",
+			"=",
+			"String",
+			"protected",
+			"editName",
+			"Css",
+			";",
+			"\"",
+			"=",
+			"private String",
+			"css",
+			"textP",
+			"public void",
+			";",
+			"\"",
+			"=",
+			"protected String",
+			"explorer",
+			"explorerç",
+			"> {",
+			"simpleContained1Tab",
+			"id=\"simpleContained1Tab\""
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			".{ENV}.",
+			"let ",
+			",",
+			"  ",
+			":",
+			",",
+			"'",
+			":   ",
+			"   ",
+			"  ",
+			"'  ",
+			":    ",
+			"    ",
+			"  ",
+			" ",
+			",",
+			"'",
+			": ",
+			" ",
+			"",
+			" ",
+			",",
+			"'",
+			":",
+			"  "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 69.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "README.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pac",
+				"AutomationWebNode/Go5/package.json"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 406.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

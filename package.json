@@ -1,0 +1,43 @@
+{
+  "name": "automation-mobile-go5",
+  "version": "1.0.0",
+  "private": true,
+  "description": "automation test for mobile app go5 ",
+  "main": "index.js",
+  "scripts": {
+    "one" : "mocha  test/admin/design --compilers js:babel-register",
+    "two" : " mocha  test/spaces/joinSpace --compilers js:babel-register ",
+    "test": "mocha test/ --compilers js:babel-register --recursive -R xunit test/ > test-reports.xml",
+    "remote-test": "./node_modules/gulp/bin/gulp.js tests",
+    "remote-test-qa": "./node_modules/gulp/bin/gulp.js tests --env=qa",
+    "remote-test-qa2": "./node_modules/gulp/bin/gulp.js tests --env=qa2",
+    "remote-test-qa3": "./node_modules/gulp/bin/gulp.js tests --env=qa3",
+    "local-test-qa": "./node_modules/gulp/bin/gulp.js tests --env=qa"
+
+  },
+  "repository": "",
+  "keywords": [
+    "node.js",
+    "eclipse",
+    "nodeclipse"
+  ],
+  "author": "",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2",
+    "selenium-webdriver": "^2.53"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.14.0",
+    "babel-preset-es2015": "^6.18.0",
+    "babel-register": "^6.18.0",
+    "chai": "^3.5.0",
+    "gulp": "^3.9.1",
+    "gulp-mocha": "^3.0.1",
+    "mocha-junit-reporter": "^1.12.1",
+    "mocha-multi": "^0.9.1"
+  }
+}
+
